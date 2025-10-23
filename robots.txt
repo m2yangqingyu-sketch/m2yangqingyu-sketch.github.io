@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://m2yangqingyu-sketch.github.io//sitemap.xml
